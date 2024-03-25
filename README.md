@@ -18,4 +18,4 @@ After reaching the hut, make sure to use noigooff to stop the function running i
 You may also use noigooff to abort early, but you must start again if you do so. 
 
 
-# PLEASE DO NOT DISTIRBUTE CARELESSLY, I DONT WANT TO RUIN THE QUEST :)
+PLEASE DO NOT DISTRIBUTE CARELESSLY, I DONT WANT TO RUIN THE QUEST :)
