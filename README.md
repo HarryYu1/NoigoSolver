@@ -16,3 +16,6 @@ Once in this room, run the first alias, and it will path you to the hut.
 After reaching the hut, make sure to use noigooff to stop the function running in the background.
 
 You may also use noigooff to abort early, but you must start again if you do so. 
+
+
+# PLEASE DO NOT DISTIRBUTE CARELESSLY, I DONT WANT TO RUIN THE QUEST :)
