@@ -1,4 +1,5 @@
 # Noigo Maze Solver
+Author: Ostryperet
 
 Script to automap and path through noigo's maze, ending up in the hut room.
 
