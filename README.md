@@ -2,6 +2,7 @@
 Author: Ostryperet
 
 Script to automap and path through noigo's maze, ending up in the hut room.
+Uses Dijikstra's and DFS to traverse the maze as a graph.
 
 USAGE:
 
@@ -18,4 +19,3 @@ After reaching the hut, make sure to use noigooff to stop the function running i
 
 You may also use noigooff to abort early, but you must start again if you do so. 
 
-IT HASN'T BEEN WORKING FOR SOME PEOPLE IDK WHY AM LOOKING INTO IT
